@@ -1,0 +1,534 @@
+@media (max-width:1199px){
+	.email{
+		width: 550px; 
+	}
+
+	.menu{
+		width: 800px;
+	}
+
+	.singleBox{
+		width: 22%;
+		margin-left: 20px;
+	}
+
+	.singleTable {
+		width: 23%;
+	}
+
+	#mainMenuItem li a{
+		padding: 30px 15px;
+	}
+
+	.teamImage{
+		width: 400px;
+	}
+
+	.teamDetails{
+		width: 535px;
+	}
+
+	.titleDesc p{
+		width: 500px;
+	}
+
+	.teamFacilities ul{
+		width: 210px;
+	}
+
+	.singleIcons{
+		width: 150px;
+	}
+
+	.riconSingle{
+		width: 200px;
+	}
+
+	.riconTitle{
+		width: 200px;
+	}
+
+	.rContentTitle{
+		padding: 50px;
+		padding-bottom: 0px;
+		margin-bottom: 20px;
+	}
+
+	.socailIcons a{
+		height: 15px;
+		width: 15px;
+	}
+
+	.socailIcons i{
+		font-size: 14px;
+	}
+
+	.subBoxSingle{
+		width: 200px;
+	}
+
+	.inputboxes input:first-child {
+		padding: 12px;
+		width: 50%;
+	}
+
+	#subssubmit{
+		padding: 15px;
+		width: 100px;
+	}
+
+	.subsFollowIcons a{
+		height: 30px;
+		width: 30px;
+		margin-right: 8px;
+	}
+
+	.fbox{
+		width: 200px;
+	}
+
+	.fRpostMeta{
+		width: 25px;
+	}
+
+	.fRpostTitle{
+		position: relative;
+		top: -72px;
+		left: 30px;
+	}
+
+	.fRpost:last-child{
+		margin-top: -80px;
+	}
+
+	.copyrightText{
+		width: 420px;
+	}
+
+	.copyrightMenu{
+		width: 400px;
+	}
+}
+
+
+@media (max-width: 992px){
+
+	.menu{
+		background: #333;
+		opacity: 0.5;
+	}
+
+	.menu span{
+		display: block;
+		margin-top: -40px;
+	}
+
+	.subMenu{
+		display: none;
+	}
+
+	.topBarMain {
+		display: none;
+	}
+
+	#mainMenuItem li{
+		display: block;
+	}
+
+	#mainMenuItem li a:hover{
+		padding-right: 10px;
+	}
+
+	#mainMenuItem li :last-child{
+		display: none;
+	}
+
+	#mainMenuItem li a{
+		color: #fff;
+		margin-right: 350px;
+		transition: 0.3s;
+	}
+
+	#mainMenuItem{
+		display:none;
+	}
+
+	.sliderContent{
+		width: 400px;
+	}
+
+	.sliderContent h1{
+		font-size:40px;
+	}
+
+	.sliderContent p{
+		width: 400px;
+	}
+
+	.singleBox{
+		width: 40%;
+		float: left;
+		margin-left: 20px;
+		margin-bottom: 20px;
+	}
+
+	.teamImage{
+		width: 100%;
+	}
+
+	.teamDetails {
+		width: 100%;
+		margin-top: 40px;
+	}
+
+	.titleDesc p{
+		width: 900px;
+	}
+
+	.teamFacilities ul{
+		width: 420px;
+	}
+
+	
+	.singlePost{
+		width:45%;
+		margin-left:30px;
+	}
+
+	.teamFacilities{
+		display: flex;
+	}
+
+	.teamFleftUl{
+		width: 50%;
+	}
+
+	.singleIcons{
+		width: 100px;
+	}
+
+	.singleTable {
+		width: 36%;
+		padding: 30px;
+	}
+
+	.singleTable:last-child{
+		margin-top: 30px;
+		margin-left: 200px;
+	}
+
+	.riconSingle{
+		width: 200px;
+		
+	}
+
+
+	.riconTitle{
+		width: 100px;
+	}
+
+	.rContentTitle{
+		padding: 20px;
+		padding-bottom: 0px;
+		margin-bottom: 20px;
+	}
+
+	.riconTitle h2{
+		font-size: 15px;
+
+	}
+
+	.riconTitle p{
+		font-size: 10px;
+	}
+
+	.singlePerson{
+		width: 45%;
+		margin-bottom: 30px;
+	}
+
+	.socailIcons{
+		width: 200px;
+	}
+
+	.socailIcons a{
+		width: 30px;
+		height: 30px;
+	}
+
+	.singleProject{
+		flex: 0 0 45%;
+		max-width: 45%;
+		margin-left: 30px;
+	}
+
+	.singleNews{
+		width: 45%;
+	}
+
+	.singleNews:last-child{
+		margin-left: 200px;
+	}
+
+	.subBoxSingle{
+		width: 300px;
+	}
+
+	.subBoxSingle:last-child{
+		margin-left: 220px;
+	}
+
+	.inputboxes input:first-child {
+		padding: 12px;
+		width: 70%;
+	}
+
+	#subssubmit{
+		padding: 15px;
+		width: 100px;
+	}
+
+	.subsFollowIcons a{
+		height: 30px;
+		width: 30px;
+		margin-right: 8px;
+	}
+
+	.fbox{
+		width: 500px;
+		margin-right: 30px;
+		margin-bottom: 40px;
+	}
+
+	.fbox:last-child{
+		display: none;
+	}
+
+	.copyrightMenu{
+		width: 700px;
+		margin-right: 400px;
+		float: right;
+
+	}
+
+}
+
+@media (max-width: 850px){
+	span{
+		margin-right: 50px;
+	}
+}
+
+@media (max-width: 794px){
+	span{
+		margin-right: 70px;
+	}
+}
+
+
+@media (max-width: 767px){
+	span{
+	   margin-right: 180px;
+	}
+	.sliderContent h1{
+		font-size:20px;
+		margin-top: 300px;
+	}
+
+	.sliderContent p{
+		display: none;
+	}
+
+	.singleBox{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.singleIcons{
+		width: 250px;
+		margin-left: 150px;
+		margin-bottom: 30px;
+	}
+
+	.singlePost{
+		width:100%;
+		margin-bottom: 50px;
+	}
+
+	.singleTable{
+		width: 100%;
+		margin-bottom: 30px;
+	}
+
+	.singleTable:last-child{
+		width: 100%;
+		margin-left: 20px;
+		margin-top: 0px;
+	}
+
+	.idealeftImg{
+		width: 100%;
+	}
+
+	.singlePerson{
+		width: 100%;
+	}
+
+	.singlePerson:last-child{
+		width: 95%;
+	}
+
+	.singleProject{
+		flex: 0 0 100%;
+		max-width: 100%;
+		margin-left: 0px;
+	}
+	
+
+	.singleNews{
+		width: 100%;
+	}
+
+	.singleNews:last-child{
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.subBoxSingle:last-child{
+		margin-left: 0px;
+	}
+
+	.copyrightMenu{
+		display: none;
+	}
+
+}
+
+
+@media (max-width: 576px){
+
+	.logo{
+		margin-left: 30px;
+	}
+
+	.sliderContent h1{
+		margin-left: 30px;
+	}
+
+	#sliderWorkButton{
+		margin-left: 30px;
+	}
+
+	.singleBox{
+		width: 90%;
+		margin-bottom: 30px;
+	}
+
+	.secTitle h2{
+		font-size: 30px;
+	}
+
+	.secTitle p{
+		width: 300px;
+	}
+
+	.singlePost{
+		width:90%;
+	}
+
+	.singleTable{
+		width: 80%;
+	}
+
+	.singleTable:last-child{
+		width: 80%;
+	}
+
+	.idealeftImg{
+		width: 100%;
+	}
+
+	.singlePerson{
+		width: 90%;
+		margin-left: 40px;
+	}
+
+	.singlePerson:last-child{
+		width: 87%;
+	}
+
+	.singleProject{
+		flex: 0 0 95%;
+		max-width: 95%;
+		margin-left: 15px;
+	}
+	
+
+	.singleNews{
+		width:95%;
+		margin-left: 15px;
+	}
+
+	.singleNews:last-child{
+		width: 95%;
+		margin-left: 15px;
+	}
+
+	.subBoxSingle:last-child{
+		margin-left: 0px;
+	}
+
+	.subsBoxesWrapper{
+		margin-right: 30px;
+		margin-left: 30px;
+	}
+
+	.fbox{
+		margin-left: 30px;
+	}
+
+	.copyrightText{
+		margin-left: 30px;
+	}
+
+}
+
+@media (max-width: 705px){
+	span{
+		margin-right: 220px;
+	}
+}
+
+@media (max-width: 635px){
+	span{
+		margin-right: 280px;
+	}
+}
+
+
+@media (max-width: 527px){
+	span{
+		margin-right: 330px;
+	}
+}
+
+
+@media (max-width: 477px){
+	span{
+		margin-right: 360px;
+	}
+}
+
+
+@media (max-width: 441px){
+	span{
+		margin-right: 400px;
+	}
+}
+
+
+@media (max-width: 400px){
+	span{
+		margin-right: 450px;
+	}
+}
